@@ -9,3 +9,5 @@ Whyte Bryte and Funshoalice
 --------------------------------------------------------------------------
 
 Whyte Bryte and Funshoalice @ ALX software engineering programme 2022.
+
+--------------------------------------------------------------------------
